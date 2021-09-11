@@ -20,7 +20,7 @@ instructions are below.
 Instructions to attend the tutorial:
 
 1. Open Moodle, log in and open the COMP1511 course.
-2. Click on Blackboard Collaborate -- Tutorials; Labs; Help-Sessions.
+2. Click on **Blackboard Collaborate -- Tutorials; Labs; Help-Sessions**.
 3. Go to page 2 using the button at the bottom.
 4. Click on **H11C (Thu) Week: 1-5,7-10 Clarissa Tatang+Liz Gibbs** which will be 
 highlighted in bold when the tutorial is in session.
